@@ -1,0 +1,74 @@
+{
+  "title": "下班到家，熊先坐五分钟",
+  "production_date": "2026-10-21",
+  "timezone": "Asia/Shanghai",
+  "tool": "built-in imagegen",
+  "image_count": 5,
+  "upload_order": [
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png"
+  ],
+  "cover": "images/01.png",
+  "publication_state": "本地完成；未上传、未发布、未设置定时",
+  "visual_qa": "逐页核对文字、页码、角色、19:10至19:40及手机水杯包的连续性",
+  "files": [
+    {
+      "path": "images/01.png",
+      "bytes": 2549393,
+      "sha256": "5342956dfb374ccbcd3507ad47f030fe63e3fa5b1ba0fb695febee73d354a3d8",
+      "width": 1086,
+      "height": 1448,
+      "png_crc": "passed",
+      "pixel_data_decompression": "passed"
+    },
+    {
+      "path": "images/02.png",
+      "bytes": 2395091,
+      "sha256": "554c5c449e5fac7fcf24b3c65fa8d3ba9301328b3b83baa82c5a282cb051ad7b",
+      "width": 1086,
+      "height": 1448,
+      "png_crc": "passed",
+      "pixel_data_decompression": "passed"
+    },
+    {
+      "path": "images/03.png",
+      "bytes": 2385823,
+      "sha256": "f516e2dc25433b29d304357e6ccc9639d5fabffa11b17fa50938761cf97b052f",
+      "width": 1086,
+      "height": 1448,
+      "png_crc": "passed",
+      "pixel_data_decompression": "passed"
+    },
+    {
+      "path": "images/04.png",
+      "bytes": 2362243,
+      "sha256": "f8bca7207e91c5037e2edb6065aabddfd66260da113c59357651ce3c2653ab3f",
+      "width": 1086,
+      "height": 1448,
+      "png_crc": "passed",
+      "pixel_data_decompression": "passed"
+    },
+    {
+      "path": "images/05.png",
+      "bytes": 2377549,
+      "sha256": "a685c3d9263149962bce61816f8c800a2eda31b8352d85aefa6011522bab1275",
+      "width": 1086,
+      "height": 1448,
+      "png_crc": "passed",
+      "pixel_data_decompression": "passed"
+    },
+    {
+      "path": "发布文案.txt",
+      "bytes": 459,
+      "sha256": "d2e38bda13a387130a565a1733f31af9e661c186a070457658b600526e19f458"
+    },
+    {
+      "path": "上传说明.txt",
+      "bytes": 493,
+      "sha256": "824e9aa179f1ed49379444084d59950455a2a31ab78f5cbe32d7cca5ab74f032"
+    }
+  ]
+}

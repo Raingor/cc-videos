@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "title": "奶茶店打烊后，熊还在洗杯子",
+  "format": "5页图文",
+  "dimensions": [
+    1086,
+    1448
+  ],
+  "tool": "内置imagegen",
+  "state": "本地素材完成；未上传、发布、定时；未核对线上排程",
+  "visual_review": "五页文字和01/05至05/05页码核对；前景三只金属杯由待洗转为倒扣架上；同一围裙和店铺；第5页独立米白喝水杯。",
+  "files": [
+    {
+      "path": "images/01.png",
+      "bytes": 2241370,
+      "sha256": "b2f982b518cc6b07c5148102683fabc299aa99af45a86afcbd6c28a784abc4ba"
+    },
+    {
+      "path": "images/02.png",
+      "bytes": 2147225,
+      "sha256": "6a4f4619cfce307dd7580e66af2c523abc4cbfe80b6ce24cf5bec818bb600b5f"
+    },
+    {
+      "path": "images/03.png",
+      "bytes": 2138259,
+      "sha256": "264745d82981138e6ed1e64a2e7a428b5e5c1040acac7e080c94322d3a196e66"
+    },
+    {
+      "path": "images/04.png",
+      "bytes": 2120163,
+      "sha256": "ae154b0ce81759cf2c036023603b38108c885129c5592816786b037a342c5bcd"
+    },
+    {
+      "path": "images/05.png",
+      "bytes": 2187124,
+      "sha256": "f1c7219b404f3052bae80bc5b10c6ff4cca55430d576678dded6ba97fc384380"
+    },
+    {
+      "path": "发布文案.txt",
+      "bytes": 363,
+      "sha256": "fa9dc6b81a54d400300bc37239fc82f5631a0f12872950c3a9a01aa64b0da469"
+    },
+    {
+      "path": "上传说明.txt",
+      "bytes": 635,
+      "sha256": "04d12bd9f419b3d97af0ca904e08d5e4b719b00c7021f06e37f186cb2f635037"
+    }
+  ]
+}

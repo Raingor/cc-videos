@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "title": "周一出门前，熊找了三遍钥匙",
+  "format": "五页图文",
+  "series": "熊的生活现场 · 04",
+  "tool": "built-in imagegen",
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1913992,
+      "sha256": "1e44a25e7235dc911515ba418d70980dbbbb9537c96f2a5da5c189500872095c",
+      "png_crc": "pass",
+      "pixel_decode": "pass"
+    },
+    {
+      "file": "images/02.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1843735,
+      "sha256": "902f31acf7b0517fcfda5504dd038c4aedfe147cb2db299580c5a17950afffe3",
+      "png_crc": "pass",
+      "pixel_decode": "pass"
+    },
+    {
+      "file": "images/03.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1735391,
+      "sha256": "6200be104cdc29610e5041dd51b924e49153717e6868ef0db30dacdc13147505",
+      "png_crc": "pass",
+      "pixel_decode": "pass"
+    },
+    {
+      "file": "images/04.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1773968,
+      "sha256": "70f1fd150676e288bde94ffb451995efc812a8015179a2046e8c752e7602fc76",
+      "png_crc": "pass",
+      "pixel_decode": "pass"
+    },
+    {
+      "file": "images/05.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1949309,
+      "sha256": "1d9630225e79c009d0f88020d81d3f31ee2c1428b2e61ab8cbb83d05a69c4c1e",
+      "png_crc": "pass",
+      "pixel_decode": "pass"
+    },
+    {
+      "file": "发布文案.txt",
+      "bytes": 375,
+      "sha256": "f5051e2b4003a7a44ac9df4148e8e3f971af26f015eb75a92c2a53941f63d9ac"
+    },
+    {
+      "file": "上传说明.txt",
+      "bytes": 898,
+      "sha256": "b0ae58d2357ea019f0be65916ec8c609d6d15ef3967c066e73a159af2165a17b"
+    }
+  ],
+  "character_source": {
+    "official_line_original": "https://store.line.me/stickershop/product/1007666/en",
+    "official_line_interview": "https://linesticker-ja.blog.jp/archives/1069894897.html",
+    "local_identity_sheet": "jokebear-ref/sheets/ep01/1007666-pack.png",
+    "note": "本次websearch核对后校正角色；比例为视觉观察，不是官方数值规范；未代表用户已确认相似度"
+  },
+  "visual_review": {
+    "copy_and_page_numbers": "checked each page",
+    "shape": "compact white 2D body, small features, short thin limbs checked against original sheet",
+    "keys": "one yellow ring plus one silver key in right hand on every page",
+    "bag": "one bag; shoulder on 01/05, cabinet on 02/03/04",
+    "page3_correction": "bag/tray order corrected and floor hand finger bumps removed"
+  },
+  "source_files": [
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png"
+  ],
+  "excluded": [
+    "images-draft/",
+    "official reference stickers",
+    "生成提示词.md",
+    "角色外观核对.md",
+    "发布稿.md"
+  ],
+  "status": {
+    "local_assets": "complete",
+    "uploaded": false,
+    "published": false,
+    "platform_scheduled": false,
+    "online_schedule_checked": false,
+    "git_committed": false,
+    "git_pushed": false
+  },
+  "validation": {
+    "png_crc": "pass",
+    "pixel_decode": "pass",
+    "dimensions": "all 1086x1448 RGB",
+    "zip_members": "5 PNG + 2 TXT + this JSON (8)",
+    "zip_bytes": "checked externally after archive creation"
+  }
+}

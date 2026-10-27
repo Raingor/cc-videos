@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-20",
+  "title": "人，今晚和熊吃顿热饭吧",
+  "status": "local_complete_not_uploaded_or_published",
+  "tool": "built-in imagegen",
+  "images": [
+    {
+      "file": "images/01.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2532120,
+      "sha256": "18729b9d8f85789556bd2afd673f4fdd53472b94496b747dbcc12f4fe7904767"
+    },
+    {
+      "file": "images/02.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2239643,
+      "sha256": "a649d19154ca2d277608271a0668c3e49b8048c6bb9275125068352241f52139"
+    },
+    {
+      "file": "images/03.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2228022,
+      "sha256": "2cae5f1a38e1fdcaba63ddc6d4a1cc11f63fc5b2f478c595cfe4bc6712181997"
+    },
+    {
+      "file": "images/04.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2250005,
+      "sha256": "094dadd56047240145c8e1cc9983bb29f6d375c54c5fd911daec38dbcec45d99"
+    },
+    {
+      "file": "images/05.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2193155,
+      "sha256": "0fdc5dc10d2c27bfae4cfa8eb8412119938fc12a4f866eccbd4c6f7b65fa06ea"
+    }
+  ],
+  "visual_qa": "逐页核对主文案、栏目期数01、页码01/05至05/05；手机从02起扣放；05碗碟稍空。"
+}

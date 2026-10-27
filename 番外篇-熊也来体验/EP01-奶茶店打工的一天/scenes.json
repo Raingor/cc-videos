@@ -1,0 +1,128 @@
+{
+ "_规范": "1080x1440 · 6帧 · 实拍全照抠图熊 · 程序绘制背景/道具/文字",
+ "scenes": [
+  {
+   "file": "01.png",
+   "bg": "#F7F1E6",
+   "counter": "#E7DBC7",
+   "kicker": [
+    "熊也来体验"
+   ],
+   "title": [
+    "奶茶店打工的一天"
+   ],
+   "size_kick": 72,
+   "size_title": 104,
+   "bear": "front",
+   "bear_w": 660,
+   "bottom": 1360,
+   "tilt": -2,
+   "prop_on_counter": true,
+   "counter_y": 0.655,
+   "props": [
+    "cup",
+    "sealer"
+   ]
+  },
+  {
+   "file": "02.png",
+   "bg": "#F2EDE2",
+   "counter": "#E3DACB",
+   "title": [
+    "09:50 开店",
+    "熊先把封口机预热了"
+   ],
+   "sub": [
+    "（自己还没热）"
+   ],
+   "size_title": 78,
+   "size_sub": 54,
+   "bear": "left",
+   "bear_w": 545,
+   "bottom": 1352,
+   "tilt": 5,
+   "prop_on_counter": true,
+   "counter_y": 0.655,
+   "props": [
+    "sealer"
+   ]
+  },
+  {
+   "file": "03.png",
+   "bg": "#F4D68F",
+   "counter": null,
+   "title": [
+    "13:00 高峰",
+    "单子比熊高"
+   ],
+   "size_title": 92,
+   "bear": "right",
+   "bear_w": 545,
+   "bottom": 1372,
+   "tilt": -2,
+   "props": [
+    "receipt"
+   ]
+  },
+  {
+   "file": "04.png",
+   "bg": "#DCE1E5",
+   "counter": "#CDD5DA",
+   "title": [
+    "14:30 有人说少冰",
+    "熊已经封好口了"
+   ],
+   "size_title": 84,
+   "bear": "front",
+   "bear_w": 590,
+   "bottom": 1338,
+   "tilt": 0,
+   "prop_on_counter": true,
+   "counter_y": 0.655,
+   "props": [
+    "cup"
+   ]
+  },
+  {
+   "file": "05.png",
+   "bg": "#F5A85C",
+   "counter": null,
+   "title": [
+    "16:00 有人说了谢谢",
+    "熊今天回血了"
+   ],
+   "size_title": 86,
+   "bear": "front",
+   "bear_w": 620,
+   "bottom": 1352,
+   "tilt": 0,
+   "props": [
+    "heart"
+   ]
+  },
+  {
+   "file": "06.png",
+   "bg_top": "#F8C383",
+   "bg": "#F2A055",
+   "counter": null,
+   "title": [
+    "熊今天卖了三百杯",
+    "自己一口没喝",
+    "给熊记一功"
+   ],
+   "size_title": 84,
+   "bear": "front",
+   "bear_w": 600,
+   "bottom": 1290,
+   "tilt": 2,
+   "sub": [
+    "点赞收藏｜熊也来体验 EP.01"
+   ],
+   "size_sub": 50,
+   "sub_y": 0.952,
+   "props": [
+    "cup_held"
+   ]
+  }
+ ]
+}

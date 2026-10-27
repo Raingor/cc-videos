@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-22",
+  "title": "说好只买三样，熊拎回两大袋",
+  "series": "熊的生活现场 · 03",
+  "status": "本地素材完成；未上传、未发布、未设置平台定时、未核对线上排程",
+  "tool": "内置imagegen：逐页5次生成，第5页1次肩包连续性修正",
+  "order": [
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png"
+  ],
+  "cover": "images/01.png",
+  "review": "已逐页人工核对主文案、页码、栏目期数、同一肩包及五类商品连续性；第5页使用修正版",
+  "prompt_files": [
+    "生成提示词.md",
+    "道具连续性修正提示词.md"
+  ],
+  "files": [
+    {
+      "path": "images/01.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2374257,
+      "sha256": "c37de2d1dc55e3c395f3cd370e29cb5f1e319edce26c09da3033d394de5cb2c3"
+    },
+    {
+      "path": "images/02.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2148064,
+      "sha256": "deb45b08dc12f92755e8693e09379094cedbcb706a8a97a69b4118be19d4c1c4"
+    },
+    {
+      "path": "images/03.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2306577,
+      "sha256": "21a5c902f0b15b390ba701c58376b95ce9df99d2ce301f240c0e8a316f4a6ea4"
+    },
+    {
+      "path": "images/04.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2270999,
+      "sha256": "fcdb7715ded28846d1cc3154a978140a8a20cf7ad1f42f121b3720c99fcbce29"
+    },
+    {
+      "path": "images/05.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2055943,
+      "sha256": "95bde89677d2d399bd7e7bba1aef3bfe2b376aff9badd5f36927c5efffb22255"
+    },
+    {
+      "path": "发布文案.txt",
+      "bytes": 423,
+      "sha256": "47858a5bc8c24805c0c85dee3390974ab3a9ecd17c489439667e330deff9f4cc"
+    },
+    {
+      "path": "上传说明.txt",
+      "bytes": 878,
+      "sha256": "e8ea97bb8c2365b3b46ec0d9aed73204a8c7314bb441ed4a64fb440fdb6e3e78"
+    }
+  ]
+}
